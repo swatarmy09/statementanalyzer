@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Statement Analyzer</string>
+    <string name="cohere_api_key">YOUR_COHERE_API_KEY</string>
+
+        <style name="ChartTitle">
+            <item name="android:layout_width">match_parent</item>
+            <item name="android:layout_height">wrap_content</item>
+            <item name="android:textSize">18sp</item>
+            <item name="android:textStyle">bold</item>
+            <item name="android:textColor">#3B1C32</item>
+        </style>
+
+
+</resources>

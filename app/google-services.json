@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "648510150991",
+    "firebase_url": "https://finanalyzer-86216-default-rtdb.firebaseio.com",
+    "project_id": "finanalyzer-86216",
+    "storage_bucket": "finanalyzer-86216.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:648510150991:android:9491f7267e7ac5b8e70d3a",
+        "android_client_info": {
+          "package_name": "com.example.finanalyzer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtNzA1U--Eo4UCTEuwI3DHMcBP7gcs_jg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:648510150991:android:ee9ebeb73f925b6ee70d3a",
+        "android_client_info": {
+          "package_name": "com.example.financialanalyzer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtNzA1U--Eo4UCTEuwI3DHMcBP7gcs_jg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:648510150991:android:a2bed25a37ba9cf0e70d3a",
+        "android_client_info": {
+          "package_name": "com.example.statementanalyzer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtNzA1U--Eo4UCTEuwI3DHMcBP7gcs_jg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
